@@ -11,7 +11,7 @@ export class CronService {
   handleCron() {
     console.log('Scheduled job running every 2 hrs');
     try {
-      this.messageService.saveMessagesToFile();
+      this.messageService.archiveMessages();
     } catch (error) {
       console.error('Error executing CRON job:', error);
     }

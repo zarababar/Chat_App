@@ -7,7 +7,7 @@ import { isValidMessage } from './message.validation';
 export class MessageService {
   private messages: Message[] = []; // This should hold the messages
 
-  saveMessagesToFile() {
+  archiveMessages() {
     if (this.messages.length === 0) {
       console.log('No new messages to save.');
       return; // No messages to save, exit the method
