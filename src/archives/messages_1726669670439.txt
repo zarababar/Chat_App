@@ -1,0 +1,19 @@
+Sender: zara
+Timestamp: 18/09/2024, 7:27:29 pm
+Message: wowow
+--------------------------------------
+
+Sender: zara
+Timestamp: 18/09/2024, 7:27:31 pm
+Message: hwhw
+--------------------------------------
+
+Sender: babar
+Timestamp: 18/09/2024, 7:27:36 pm
+Message: chalo
+--------------------------------------
+
+Sender: babar
+Timestamp: 18/09/2024, 7:27:39 pm
+Message: bla bla
+--------------------------------------
